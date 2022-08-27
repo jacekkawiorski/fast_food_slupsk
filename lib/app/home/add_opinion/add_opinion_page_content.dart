@@ -28,7 +28,7 @@ class _AddOpinionContendState extends State<AddOpinionContend> {
           children: [
             TextField(
               decoration: const InputDecoration(
-                hintText: 'Wpisz nazwę restauracji.',
+                hintText: 'Wpisz nazwę restauracji',
               ),
               onChanged: (newValue) {
                 setState(() {
