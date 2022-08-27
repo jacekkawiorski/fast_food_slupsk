@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84213412511",
+    "project_id": "fast-food-slupsk-123",
+    "storage_bucket": "fast-food-slupsk-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84213412511:android:1c27b906d08050e795e8aa",
+        "android_client_info": {
+          "package_name": "com.jacekkawiorski.fast_food_slupsk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84213412511-57k27l3ma7929mpc1c3pg73eoakfpg58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwOGOPDZsnTY0PJry5xG6LT6XQS5h-ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84213412511-57k27l3ma7929mpc1c3pg73eoakfpg58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
