@@ -16,7 +16,7 @@ class AddOpinionContend extends StatefulWidget {
 class _AddOpinionContendState extends State<AddOpinionContend> {
   var resturantsName = '';
   var pizzaName = '';
-  var rating = 1.0;
+  var rating = 3.5;
 
   @override
   Widget build(BuildContext context) {
