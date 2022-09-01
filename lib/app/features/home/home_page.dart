@@ -1,6 +1,6 @@
-import 'package:fast_food_slupsk/app/home/add_opinion/add_opinion_page_content.dart';
-import 'package:fast_food_slupsk/app/home/my_account/my_account_page_content.dart';
-import 'package:fast_food_slupsk/app/home/restaurants/restaurants_page_content.dart';
+import 'package:fast_food_slupsk/app/features/home/add_opinion/add_opinion_page_content.dart';
+import 'package:fast_food_slupsk/app/features/home/my_account/my_account_page_content.dart';
+import 'package:fast_food_slupsk/app/features/home/restaurants/restaurants_page_content.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
